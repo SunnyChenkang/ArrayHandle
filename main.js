@@ -60,7 +60,7 @@ class ArrayHandle {
 var ah = new ArrayHandle();
 const __ = ah.ArrData.bind(ah);
 
-const SIZE = 2000_0000;
+const SIZE = 200_0000;
 
 ary = _.range(SIZE);
 
